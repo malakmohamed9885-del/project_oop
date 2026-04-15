@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="../checkoop/checkoop.vcxproj" Id="b467daa7-70fb-44a6-a4ab-525fcfa6a83b" />
+  <Project Path="../taskoop2/taskoop2.vcxproj" Id="1bbdb079-9de0-43b1-8269-d1c645c760ef" />
+  <Project Path="../task_8oop/task_8oop.vcxproj" Id="d1803ed4-5ae0-40ca-9143-7d5670a1c7e7" />
+  <Project Path="../task_oop/task_oop.vcxproj" Id="a19f5d42-7150-485a-986c-39cc19787c96" />
+  <Project Path="../task_oop0/task_oop0.vcxproj" Id="473df35a-d2a9-4e3c-92dd-9c5382b91c1a" />
+  <Project Path="../task_oop011/task_oop011.vcxproj" Id="7662afca-6e03-4554-bab5-a1921288bac0" />
+  <Project Path="../task_oop1/task_oop1.vcxproj" Id="f9485b33-9910-4896-b583-9d83784f9b9e" />
+  <Project Path="../task_oop13/task_oop13.vcxproj" Id="171bb03c-9707-437f-a457-1d92b539aa57" />
+  <Project Path="../task_oop15/task_oop15.vcxproj" Id="56a3ac7f-f41c-48a3-9d8f-1159b54008db" />
+  <Project Path="../task_oop4/task_oop4.vcxproj" Id="3b7450c1-b850-4d28-970c-45a0ca42202b" />
+  <Project Path="../task_oop5/task_oop5.vcxproj" Id="3cd49f96-c817-4c8a-b6d8-7ae8c7022bac" />
+  <Project Path="../task_oop6/task_oop6.vcxproj" Id="b7ecef97-a490-41c7-be89-b1690f38b231" />
+  <Project Path="../task_oop7/task_oop7.vcxproj" Id="6234aa62-74c7-47a2-8f0c-7726554dca56" />
+  <Project Path="../task_opp3/task_opp3.vcxproj" Id="28d822b4-c8c7-4815-b02d-9b734a2bce8c" />
+  <Project Path="project_oop.vcxproj" Id="f439ef05-aa5a-4a27-a191-372ac62e2d9d" />
+</Solution>
